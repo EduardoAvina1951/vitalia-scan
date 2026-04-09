@@ -40,7 +40,7 @@ const Footer = () => {
             <div className="widget d-flex flex-column align-items-center text-center text-lg-start">
               <div className="mb-5">
                 <Image
-                  src="/img/logo-light.webp"
+                  src="/img/logo-light.png"
                   alt="Dental Clinic Logo"
                   width={200}
                   height={100}

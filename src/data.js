@@ -48,13 +48,13 @@ export const factList1 = [
     id: 2,
     number: 3500,
     title: 'Evaluaciones preventivas',
-    src: '/img/icons/root-canal-treatment.webp'
+    src: '/img/icons/root-canal-treatment.png'
   },
   {
     id: 3,
     number: 1200,
     title: 'Reportes generados',
-    src: '/img/icons/dental-implants.webp'
+    src: '/img/icons/dental-implants.png'
   }
 ];
 
@@ -63,13 +63,13 @@ export const factList2 = [
     id: 4,
     number: 98,
     title: 'Precisión en mediciones (%)',
-    src: '/img/icons/orthodontic-treatments.webp'
+    src: '/img/icons/orthodontic-treatments.png'
   },
   {
     id: 5,
     number: 24,
     title: 'Disponibilidad del servicio (horas)',
-    src: '/img/icons/smile-mackovers.webp'
+    src: '/img/icons/smile-mackovers.png'
   },
   {
     id: 6,

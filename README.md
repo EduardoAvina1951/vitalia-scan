@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -156,3 +157,6 @@ You may use this version for personal and educational purposes.<br>
 
 </body>
 </html>
+=======
+# vitalia-scan
+>>>>>>> 9cfd0688d21ca2f49e1fd55c90b6911f883fd6ed

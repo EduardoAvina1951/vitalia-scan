@@ -50,7 +50,7 @@ const Navbar = ({
               <Image
                 alt="Dental Clinic - SEO Optimized Dental Website Template"
                 className="py-2"
-                src="/img/logo-light.webp"
+                src="/img/logo-light.png"
                 width={150}
                 height={80}
                 priority
